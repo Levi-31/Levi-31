@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Shukla</h1>
-<h3 align="center">Hello, I'm Sarthak Shukla. Proficient in C++ programming, data structures, and algorithms, I'm now venturing into web development. Currently, I'm immersed in mastering web technologies like HTML, CSS, JavaScript, and exploring frameworks such as React. My aim is to fuse my coding skills with web development to create captivating online experiences. Looking forward to contributing my expertise to innovative tech projects.</h3>
+<h3 align="center">Hello, I'm Sarthak Shukla. Proficient in C++ programming, data structures, and algorithms, I'm now venturing into web development. Currently, I'm immersed in mastering web technologies like HTML, CSS, JavaScript, and exploring libraries such as React. My aim is to fuse my coding skills with web development to create captivating online experiences. Looking forward to contributing my expertise to innovative tech projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levi-31&label=Profile%20views&color=0e75b6&style=flat" alt="levi-31" /> </p>
 
